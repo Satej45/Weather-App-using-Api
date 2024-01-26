@@ -16,7 +16,7 @@ The Weather App using API is a simple application that retrieves and displays we
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Weather-App-using-Api.git
+   git clone https://github.com/Satej45/Weather-App-using-Api.git
    cd Weather-App-using-Api
    
 Install dependencies:

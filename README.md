@@ -1,5 +1,4 @@
 # Weather-App-using-
-# Weather App using API
 
 ## Overview
 The Weather App using API is a simple application that retrieves and displays weather information for a given city. It utilizes a weather API to fetch real-time weather data and presents it to the user in a readable format.
